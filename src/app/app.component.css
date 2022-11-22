@@ -1,0 +1,172 @@
+.one
+{
+    height: 50px;
+    width:1100px;
+    background-color:deeppink;
+    border: 1;
+    padding-top: 0px;
+    border-bottom-style: solid;
+
+}
+.two
+{
+    font-size: 40px;
+    
+
+}
+.three
+{
+    margin-top: 100px;
+    height:40px;
+    width:1100px;
+    border-radius: 1px;
+    border-color: black;
+    background-color:hotpink;
+    margin-top: 74px;
+    border-bottom-style: solid;
+}
+.four
+{
+    font-size: 18px;
+    font-style:italic;
+}
+.five
+{
+    height:10px;
+    width:1100px;
+    background-color: chocolate;
+    padding-top:1px;
+    padding-left: 20px;
+    border: 1;
+    padding-bottom: 30px;
+   
+}
+.six
+{
+      font-size: 16px;
+      font-style: oblique;
+
+    
+    height:60px;
+    width:1100px;
+    padding-left: 11px;
+    margin-top: 0px;
+}
+.seven
+{
+    height:10px;
+    width:1100px;
+    background-color: chocolate;
+    padding-top:0.5px;
+    padding-left: 20px;
+    border: 1;
+    padding-bottom: 30px;
+    margin-top:-20px ;
+    border-top-style: solid;
+}
+.Eight
+{
+    font-size: 18px;
+    font-style:italic;
+}
+.nine
+{
+    height:60px;
+    width:1100px;
+    border-bottom-style: solid;
+    margin-top: 0px;
+    
+}
+.ten
+{
+    height:300px;
+    width:500px;
+    margin-top: -16px;
+}
+.eleven
+{
+     padding-left: 700px;
+     margin-top:-250px;
+     font-style:calc();
+     font-size: 30px;
+     font-weight:bold;
+}
+.twelve
+{
+    font-style: italic;
+    font-size: 30px;
+}
+.thirteen
+{
+    height:fit-content;
+    width:fit-content;
+    background-color: hotpink;
+    border: crimson;
+    margin-top: 10px;
+    border-style:inherit;
+    border-radius: 1ch;
+
+}
+.fourteen
+{
+    height:fit-content;
+    width:fit-content;
+    background-color: hotpink;
+    border: crimson;
+    margin-left: 480px;
+    margin-top: -38px;
+    border-style:inherit;
+    border-radius: 1ch;
+}
+.fifteen
+{
+    height:fit-content;
+    width:fit-content;
+    background-color: hotpink;
+    border: crimson;
+    margin-left: 480px;
+    margin-top: 10px; 
+    border-style:inherit; 
+    border-radius: 1ch;
+}
+.sixteen
+{
+    height:fit-content;
+    width:fit-content;
+    background-color: hotpink;
+    border: crimson;
+    margin-left: 900px;
+    margin-top: -47px;
+    border-style:inherit;
+    border-radius: 1ch;
+      
+}
+.seventeen
+{
+    height:fit-content;
+    width:fit-content;
+    background-color: hotpink;
+    border: crimson;
+    margin-left: 900px;
+    margin-top: 10px; 
+    border-style:inherit; 
+    border-radius: 1ch;
+}
+.eighteen
+{
+    height:fit-content;
+    width:fit-content;
+    background-color: hotpink;
+    border: crimson;
+    margin-top: 10px;
+    border-style:inherit;
+    border-radius: 1ch;
+}
+.nineteen
+{
+    font-style: italic;
+    font-size: 15px;
+    font-weight: bold;
+    font-size: 20px;
+    
+}

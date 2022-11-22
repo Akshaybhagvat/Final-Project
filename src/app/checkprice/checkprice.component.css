@@ -1,0 +1,42 @@
+.one
+{
+    margin-top: -400px;
+    height: 310px;
+    margin-bottom: 10px;
+}
+  .two
+  {
+    margin-left: 550px;
+    background-color: aqua;
+    height: 294px;
+    width: 550px;
+    margin-right: 10px;
+    padding-top: 11px;
+    margin-top: 5px;
+    border-left-style: solid;
+  }
+  .three
+  {
+    margin-top: 10px;
+    background-color:burlywood;
+    font-size: 20px;
+    font-weight: bold;
+    width: 450px;
+    border-bottom-style: solid;
+
+  }
+  .four
+  {
+    font-size: 17px;
+    font-style: italic;
+    font-weight: bold;
+  }
+  .five
+  {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:lighter;
+    border-style: solid;
+    border-color: black;
+    border-radius: 1ch;
+  }

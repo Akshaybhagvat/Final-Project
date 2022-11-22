@@ -1,0 +1,16 @@
+<div align="center" class="two">
+    <h3 class="three">Enter Book Name to Check Price Of Book</h3>
+    <br>
+   <form #insertform="ngForm" (ngSubmit)="insertdata1(insertform)">
+   <div>
+       <label class="four">Book Name  :   </label><br>
+       <input type="text" #bname (ngModel)="bname" id="bname" name="bname" style="border-style: solid; border-color: black;"><br><br>
+      
+        <br>
+   
+        <input type="submit" value="Check" class="five">
+   </div>
+   </form>
+</div>
+  <img src="assets/images/l9.jpg" class="one">
+

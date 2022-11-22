@@ -1,0 +1,19 @@
+<div class="three">
+    <h3 class="one">Add Your Book</h3>
+    <br>
+   <form #insertform="ngForm" (ngSubmit)="insertdata1(insertform)">
+   <div>
+       <label class="four">Book Name  :   </label><br>
+       <input type="text" #bname (ngModel)="bname" id="bname" name="bname" class="eight"><br><br>
+       <label class="five">Book Author  :  </label><br>
+       <input type="text" #bauthor (ngModel)="bauthor" id="bauthor" name="bauthor" class="eight"><br><br>
+       <label class="six">Book Price  :&nbsp;(in Rs.)   </label><br>
+       <input type="number" #bprice (ngModel)="bprice" id="bprice" name="bprice" class="eight"><br><br>
+       
+   <br>
+   
+        <input type="submit" value="Add" class="seven">
+   </div>
+   </form>
+</div>
+<img src="assets/images/l3.jpg" class="two">
